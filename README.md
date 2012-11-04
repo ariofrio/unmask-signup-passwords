@@ -20,6 +20,6 @@ over to it. [Install it][] and [try it out][]!
  - [Twilio](https://www.twilio.com/try-twilio)
  - [GitHub](https://github.com/plans)
 
-[Let me know][] if this doesn't work on any website.
+[Let me know][] if this doesn't work on a website you visit.
 
   [let me know]: https://github.com/ariofrio/unmask-signup-passwords/issues
