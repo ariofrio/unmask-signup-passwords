@@ -1,3 +1,5 @@
+**Currently this script is broken. See the list of [outstanding issues](https://github.com/ariofrio/unmask-signup-passwords/issues) before installing!**
+
 # Unmask signup passwords
 
 Inspired by an interesting [article][] on Smashing Magazine, this user script unmasks password fields when they are focused, using a lighter and smaller font to aid privacy.
